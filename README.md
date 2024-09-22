@@ -1,7 +1,7 @@
 
 ### 1. Deployment link
 
-- **URL**: [https://toiya-assigment.vercel.app/)
+- **URL**: [https://onefinnet-mauryarajeevs-projects.vercel.app/)
 
 
 ### 1. Screenshots
