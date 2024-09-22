@@ -4,6 +4,21 @@
 - **URL**: [https://toiya-assigment.vercel.app/)
 
 
+### 1. Screenshots
+
+![Screenshot](https://github.com/mauryarajeev/Onefinnet/blob/main/src/assets/Screenshot_1.png)
+
+![Screenshot](https://github.com/mauryarajeev/Onefinnet/blob/main/src/assets/Screenshot_2.png)
+
+![Screenshot](https://github.com/mauryarajeev/Onefinnet/blob/main/src/assets/Screenshot_3.png)
+
+![Screenshot](https://github.com/mauryarajeev/Onefinnet/blob/main/src/assets/Screenshot_4.png)
+
+![Screenshot](https://github.com/mauryarajeev/Onefinnet/blob/main/src/assets/Screenshot_5.png)
+
+![Screenshot](https://github.com/mauryarajeev/Onefinnet/blob/main/src/assets/Screenshot_6.png)
+
+
 ## Getting Started
 
 To start the application, follow these steps:
